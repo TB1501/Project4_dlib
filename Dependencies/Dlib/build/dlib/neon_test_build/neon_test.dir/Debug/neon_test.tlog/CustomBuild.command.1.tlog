@@ -1,0 +1,10 @@
+^C:\USERS\TIN\DLIB-19.24\SOURCE\DLIB\CMAKE_UTILS\TEST_FOR_NEON\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/Tin/dlib-19.24/source/dlib/cmake_utils/test_for_neon -BC:/Users/Tin/dlib-19.24/build/dlib/neon_test_build --check-stamp-file C:/Users/Tin/dlib-19.24/build/dlib/neon_test_build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

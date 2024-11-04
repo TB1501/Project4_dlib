@@ -1,0 +1,8 @@
+C:/Users/Tin/dlib-19.24/build/CMakeFiles/PACKAGE.dir
+C:/Users/Tin/dlib-19.24/build/CMakeFiles/INSTALL.dir
+C:/Users/Tin/dlib-19.24/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Tin/dlib-19.24/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/Tin/dlib-19.24/build/dlib/CMakeFiles/dlib.dir
+C:/Users/Tin/dlib-19.24/build/dlib/CMakeFiles/PACKAGE.dir
+C:/Users/Tin/dlib-19.24/build/dlib/CMakeFiles/INSTALL.dir
+C:/Users/Tin/dlib-19.24/build/dlib/CMakeFiles/ALL_BUILD.dir
